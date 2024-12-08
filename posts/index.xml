@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 07:46:57 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>내 첫 블로그!</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 08 Dec 2024 07:46:57 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;내-첫번째-블로그다&#34;&gt;내 첫번째 블로그다.&lt;/h1&gt;&#xA;&lt;h2 id=&#34;서론&#34;&gt;서론&lt;/h2&gt;&#xA;&lt;h2 id=&#34;본론&#34;&gt;본론&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgsPjsu_I9sb7k36krihXbBMBh2fbJziqMg&amp;amp;s&#34; alt=&#34;chatgpt&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;결론&#34;&gt;결론&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
